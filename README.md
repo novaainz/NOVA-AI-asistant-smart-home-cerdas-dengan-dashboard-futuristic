@@ -14,6 +14,6 @@ Project UTS Internet of Things (IoT) yang menghubungkan kecerdasan buatan (NOVA-
 - Protokol: HTTP, JSON, CORS
 
 ## Demo Video
-Tonton video demonya di sini: [Link YouTube Kamu]
+Tonton video demonya di sini: https://youtu.be/503K3ucoaG4?si=bgiZtI2QLPNOlqkv
 
 Dibuat oleh Nova Arundyna Inzani - Universitas Lampung
